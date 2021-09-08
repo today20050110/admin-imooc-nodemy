@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid"
+          content="07EE18D5-0F08-4DF7-BEAE-D69AA2C7008D" />
+    <meta name="dtb:depth"
+          content="1" />
+    <meta name="dtb:totalPageCount"
+          content="0" />
+    <meta name="dtb:maxPageNumber"
+          content="0" />
+    <meta name="dtb:generator"
+          content="Vellum" />
+  </head>
+  <docTitle>
+    <text>Marked</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np1" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="cover.xhtml" />
+    </navPoint>
+    <navPoint id="np2" playOrder="2">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="title-page.xhtml" />
+  </navPoint>
+  <navPoint id="np3" playOrder="3">
+    <navLabel>
+      <text>Contents</text>
+    </navLabel>
+    <content src="contents.xhtml" />
+</navPoint>
+<navPoint id="np4" playOrder="4">
+  <navLabel>
+    <text>Asgard’s Dragon Rider Books</text>
+  </navLabel>
+  <content src="asgards-dragon-rider-books.xhtml" />
+</navPoint>
+<navPoint id="np5" playOrder="5">
+  <navLabel>
+    <text>Copyright</text>
+  </navLabel>
+  <content src="copyright.xhtml" />
+</navPoint>
+<navPoint id="np6" playOrder="6">
+  <navLabel>
+    <text>Dedication</text>
+  </navLabel>
+  <content src="dedication.xhtml" />
+</navPoint>
+<navPoint id="np7" playOrder="7">
+  <navLabel>
+    <text>Free ebook</text>
+  </navLabel>
+  <content src="free-ebook.xhtml" />
+</navPoint>
+<navPoint id="np8" playOrder="8">
+  <navLabel>
+    <text>Chapter One</text>
+  </navLabel>
+  <content src="chapter-one.xhtml" />
+</navPoint>
+<navPoint id="np9" playOrder="9">
+  <navLabel>
+    <text>Chapter Two</text>
+  </navLabel>
+  <content src="chapter-two.xhtml" />
+</navPoint>
+<navPoint id="np10" playOrder="10">
+  <navLabel>
+    <text>Chapter Three</text>
+  </navLabel>
+  <content src="chapter-three.xhtml" />
+</navPoint>
+<navPoint id="np11" playOrder="11">
+  <navLabel>
+    <text>Acknowledgments</text>
+  </navLabel>
+  <content src="acknowledgments.xhtml" />
+</navPoint>
+<navPoint id="np12" playOrder="12">
+  <navLabel>
+    <text>Books by Katrina Cope</text>
+  </navLabel>
+  <content src="books-by-katrina-cope.xhtml" />
+</navPoint>
+<navPoint id="np13" playOrder="13">
+  <navLabel>
+    <text>Newsletter</text>
+  </navLabel>
+  <content src="newsletter.xhtml" />
+</navPoint>
+<navPoint id="np14" playOrder="14">
+  <navLabel>
+    <text>Your Thoughts</text>
+  </navLabel>
+  <content src="your-thoughts.xhtml" />
+</navPoint>
+<navPoint id="np15" playOrder="15">
+  <navLabel>
+    <text>About the Author</text>
+  </navLabel>
+  <content src="about-the-author.xhtml" />
+</navPoint>
+</navMap>
+</ncx>
