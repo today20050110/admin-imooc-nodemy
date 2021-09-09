@@ -1,7 +1,7 @@
 const { env } = require('./env')
-const UPLOAD_PATH = env === 'dev' ? '/test/imoocepub/admin-dev/admin-imooc-node/Users/today/admin-upload-ebook' : '/root/upload/admin-upload/ebook'
+const UPLOAD_PATH = env === 'dev' ? '/test/imoocepub/admin-dev/admin-imooc-node/Users/today/admin-upload-ebook' : '/root/admin-imooc-nodemy/admin-upload-ebook'
 const OLD_UPLOAD_URL = env === 'dev' ? 'https://book.youbaobao.xyz/book/res/img' : 'https://www.youbaobao.xyz/book/res/img'
-const UPLOAD_URL = env === 'dev' ? 'http://localhost:8089/users/today/admin-upload-ebook' : 'http://test123.win/users/today/admin-upload-ebook'
+const UPLOAD_URL = env === 'dev' ? 'http://localhost:8089/users/today/admin-upload-ebook' : 'http://test123.win/admin-upload-ebook'
 module.exports = {
   CODE_ERROR: -1,
   CODE_SUCCESS: 0,
